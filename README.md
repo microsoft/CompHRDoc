@@ -47,7 +47,7 @@ Comp-HRDoc/
     └── ...
 ```
 
-**For a detailed explanation of each file and folder, please refer to [`datasets/Comp-HRDoc/HRDH_MSRA_POD_TRAIN/README.md`](datasets/Comp-HRDoc/HRDH_MSRA_POD_TRAIN/README.md) and [`datasets/Comp-HRDoc/HRDH_MSRA_POD_TEST/README.md`](datasets/Comp-HRDoc/HRDH_MSRA_POD_TEST/README.md).**
+**For a detailed explanation of each file and folder, please refer to `datasets/Comp-HRDoc/HRDH_MSRA_POD_TRAIN/README.md` and `datasets/Comp-HRDoc/HRDH_MSRA_POD_TEST/README.md`.**
 
 **Due to license restrictions, please go to [HRDoc-Hard dataset](https://github.com/jfma-USTC/HRDoc) to download the images of HRDoc-Hard and put them into the corresponding folders.**
 
