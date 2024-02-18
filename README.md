@@ -26,6 +26,7 @@ Comp-HRDoc/
 │   │   └── ...
 │   ├── hdsa_train.json
 │   ├── coco_train.json
+│   ├── README.md # a detailed explanation of each file and folder
 │   └── ...
 └──HRDH_MSRA_POD_TEST/
     ├── Images/ # put the document images of HRDoc-Hard test set into this folder
@@ -42,6 +43,7 @@ Comp-HRDoc/
     │   └── ...
     ├── hdsa_test.json
     ├── coco_test.json
+    ├── README.md # a detailed explanation of each file and folder
     └── ...
 ```
 
