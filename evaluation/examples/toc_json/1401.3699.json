@@ -1,0 +1,242 @@
+[
+    {
+        "text": "1. Introduction",
+        "box": [
+            257,
+            395,
+            337,
+            407
+        ],
+        "class": "section",
+        "page": 0,
+        "is_meta": false,
+        "line_id": 0,
+        "parent_id": -1,
+        "relation": "contain",
+        "page_object_id": 9
+    },
+    {
+        "text": "2. The puzzle",
+        "box": [
+            263,
+            659,
+            331,
+            670
+        ],
+        "class": "section",
+        "page": 1,
+        "is_meta": false,
+        "line_id": 63,
+        "parent_id": -1,
+        "relation": "contain",
+        "page_object_id": 19
+    },
+    {
+        "text": "3. Local constraints",
+        "box": [
+            244,
+            228,
+            351,
+            240
+        ],
+        "class": "section",
+        "page": 4,
+        "is_meta": false,
+        "line_id": 181,
+        "parent_id": -1,
+        "relation": "contain",
+        "page_object_id": 60
+    },
+    {
+        "text": "4. The ribbon trick",
+        "box": [
+            247,
+            478,
+            347,
+            490
+        ],
+        "class": "section",
+        "page": 5,
+        "is_meta": false,
+        "line_id": 241,
+        "parent_id": -1,
+        "relation": "contain",
+        "page_object_id": 73
+    },
+    {
+        "text": "5. Metric invariant",
+        "box": [
+            247,
+            267,
+            347,
+            279
+        ],
+        "class": "section",
+        "page": 7,
+        "is_meta": false,
+        "line_id": 323,
+        "parent_id": -1,
+        "relation": "contain",
+        "page_object_id": 105
+    },
+    {
+        "text": "6. Topological invariant",
+        "box": [
+            233,
+            706,
+            361,
+            718
+        ],
+        "class": "section",
+        "page": 7,
+        "is_meta": false,
+        "line_id": 358,
+        "parent_id": -1,
+        "relation": "contain",
+        "page_object_id": 106
+    },
+    {
+        "text": "6.4. Linking number of constructible configurations.",
+        "box": [
+            118,
+            349,
+            377,
+            360
+        ],
+        "class": "section",
+        "page": 10,
+        "is_meta": false,
+        "line_id": 456,
+        "parent_id": 5,
+        "relation": "contain",
+        "page_object_id": 149
+    },
+    {
+        "text": "6.5. Examples of configurations with nonzero linking numb er. Due to The-",
+        "box": [
+            118,
+            483,
+            477,
+            493
+        ],
+        "class": "section",
+        "page": 10,
+        "is_meta": false,
+        "line_id": 465,
+        "parent_id": -1,
+        "relation": "contain",
+        "page_object_id": 140
+    },
+    {
+        "text": "7. Octominoid configurations",
+        "box": [
+            221,
+            623,
+            373,
+            635
+        ],
+        "class": "section",
+        "page": 10,
+        "is_meta": false,
+        "line_id": 478,
+        "parent_id": -1,
+        "relation": "contain",
+        "page_object_id": 147
+    },
+    {
+        "text": "8. Planar face-up configurations",
+        "box": [
+            212,
+            607,
+            383,
+            618
+        ],
+        "class": "section",
+        "page": 12,
+        "is_meta": false,
+        "line_id": 572,
+        "parent_id": -1,
+        "relation": "contain",
+        "page_object_id": 178
+    },
+    {
+        "text": "9. Configurations with vanishing invariants",
+        "box": [
+            183,
+            300,
+            411,
+            311
+        ],
+        "class": "section",
+        "page": 16,
+        "is_meta": false,
+        "line_id": 689,
+        "parent_id": -1,
+        "relation": "contain",
+        "page_object_id": 218
+    },
+    {
+        "text": "9.4. The five sequences with two flaps separated by one tile.",
+        "box": [
+            118,
+            286,
+            420,
+            296
+        ],
+        "class": "section",
+        "page": 18,
+        "is_meta": false,
+        "line_id": 776,
+        "parent_id": 10,
+        "relation": "contain",
+        "page_object_id": 242
+    },
+    {
+        "text": "10. Unclassified configurations",
+        "box": [
+            216,
+            502,
+            380,
+            514
+        ],
+        "class": "section",
+        "page": 23,
+        "is_meta": false,
+        "line_id": 975,
+        "parent_id": -1,
+        "relation": "contain",
+        "page_object_id": 291
+    },
+    {
+        "text": "11. The software codes",
+        "box": [
+            237,
+            263,
+            357,
+            275
+        ],
+        "class": "section",
+        "page": 24,
+        "is_meta": false,
+        "line_id": 997,
+        "parent_id": -1,
+        "relation": "contain",
+        "page_object_id": 304
+    },
+    {
+        "text": "References",
+        "box": [
+            265,
+            541,
+            327,
+            552
+        ],
+        "class": "section",
+        "page": 27,
+        "is_meta": false,
+        "line_id": 1127,
+        "parent_id": -1,
+        "relation": "contain",
+        "page_object_id": 350
+    }
+]

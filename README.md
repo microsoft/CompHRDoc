@@ -51,6 +51,19 @@ Comp-HRDoc/
 
 **Due to license restrictions, please go to [HRDoc-Hard dataset](https://github.com/jfma-USTC/HRDoc) to download the images of HRDoc-Hard and put them into the corresponding folders.**
 
+### Evaluation Tool
+
+To utilize the evaluation tool for assessing your model's performance on the Comp-HRDoc dataset, please consult the script located at [`evaluation/unified_layout_evaluation.py`](evaluation/unified_layout_evaluation.py).
+
+Below is an example illustrating how to conduct an evaluation for the task of reconstructing the hierarchical document structure:
+```python
+hds_gt = "datasets/Comp-HRDoc/HRDH_MSRA_POD_TEST/test_eval/"
+hds_pred = "path_to_your_predicted_hierarchical_structure/"
+python evaluation/hrdoc_tool/teds_eval.py --gt_anno {hds_gt} --pred_folder {hds_pred}
+```
+
+We also provide some examples in [`evaluation/examples/`](evaluation/examples/) to demonstrate the format of predicted files required by the evaluation tool.
+
 ### Detect-Order-Construct
 
 We proposed a comprehensive approach to thoroughly analyzing hierarchical document structures using a tree construction based method. This method decomposes tree construction into three distinct stages, namely Detect, Order, and Construct. Initially, given a set of document images, the Detect stage is dedicated to identifying all page objects and assigning a logical role to each object, thereby forming the nodes of the hierarchical document structure tree. Following this, the Order stage establishes the reading order relationships among these nodes, which corresponds to a pre-order traversal of the hierarchical document structure tree. Finally, the Construct stage identifies hierarchical relationships (e.g., Table of Contents) between semantic units to construct an abstract hierarchical document structure tree. By integrating the results of all three stages, we can effectively construct a complete hierarchical document structure tree, facilitating a more comprehensive understanding of complex documents.
