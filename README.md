@@ -1,6 +1,6 @@
 # CompHRDoc
 
-Comp-HRDoc is the first comprehensive benchmark, specifically designed for hierarchical document structure analysis. It encompasses tasks such as page object detection, reading order prediction, table of contents extraction, and hierarchical structure reconstruction. Comp-HRDoc is built upon the [HRDoc-Hard dataset](https://github.com/jfma-USTC/HRDoc), which comprises 1,000 documents for training and 500 documents for testing. We retain all original images without modification and extend the original annotations to accommodate the evaluation of these included tasks.
+Comp-HRDoc is the first comprehensive benchmark, specifically designed for hierarchical document structure analysis. It encompasses tasks such as page object detection, reading order prediction, table of contents extraction, and hierarchical structure reconstruction. Comp-HRDoc is built upon the [HRDoc-Hard dataset](https://github.com/jfma-USTC/HRDoc), which comprises 1,000 documents for training and 500 documents for testing. We retain all original images without modification and extend the original annotations to accommodate the evaluation of these included tasks. The dataset is for model training and testing. Users can use this dataset to train a model or evaluate the performance for hierarchical document structure analysis.
 
 ## News
 
